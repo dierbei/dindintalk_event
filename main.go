@@ -40,6 +40,7 @@ type DingTalkCrypto struct {
 
 
 
+123
 
 
 
@@ -50,7 +51,7 @@ type DingTalkCrypto struct {
 
 
 
- */
+*/
 
 type EncryptData struct {
 	Encrypt string `json:"encrypt"`
