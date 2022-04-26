@@ -24,3 +24,11 @@ func isAddComment(line string) bool {
 //
 //
 ///
+
+/*
+
+ */
+
+/*
+ *
+ */
