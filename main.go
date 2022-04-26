@@ -29,6 +29,11 @@ type DingTalkCrypto struct {
 	Block          cipher.Block
 }
 
+/*
+
+
+ */
+
 type EncryptData struct {
 	Encrypt string `json:"encrypt"`
 }
